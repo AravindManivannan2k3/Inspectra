@@ -1,4 +1,4 @@
-# 🔍 Inspectra
+# Inspectra
 
 **Inspectra** is a powerful system inspection and monitoring tool built using **Python**, **PHP**, and **MySQL**. It automates the process of checking application availability, service statuses, website accessibility, and various system-level diagnostics on Windows systems.
 
