@@ -48,7 +48,7 @@
    - `website_table`: for storing URLs of websites to test for accessibility.
 
 3. There’s no need to manually create the `checked_result` table.  
-   👉 The Python script (`auto_check.py`) will automatically create and manage it when you run it for the first time.
+    The Python script (`auto_check.py`) will automatically create and manage it when you run it for the first time.
 
 4. Populate `app_table`, and `website_table` with the values you want to inspect. These can be added manually or via the included `manage.php` script.
 
